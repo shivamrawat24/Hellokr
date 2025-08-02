@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <title> checkit </title>
+  </head>
+  <body>
+    <div>
+      <div>
+        <h1> protocolo</h1>
+        <nav>
+          <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact</li>
+            <li>reviews</li>
+          </ul>
+        </nav>
+      </div>
+      <div>
+             <div> 
+              <p>just check  it attach files by dragging and dropping, selecting or pasting them. thats itjust check  it attach files by dragging and dropping, selecting or pasting them. thats itjust check it attach files by dragging and dropping, selecting or pasting them. thats it
+              </p>
+            </div>
+            <div>
+              <img href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDjKVeooOscFj6ha44iR82y2SON3OlQVcdA&s" src="Imagers">
+           </div>
+      </div>
+      <div>
+          
+      </div>
+    </div>
+  </body>
+</html>
